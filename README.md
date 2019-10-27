@@ -8,3 +8,4 @@ Stochastic Gradient Descent
 Mini-Batch Gradient Descent
 
 plot the results on 3D
+
